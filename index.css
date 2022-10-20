@@ -1,0 +1,36 @@
+body
+{
+    text-align: center;
+    background-color:darkblue;
+    color:darkkhaki;
+
+}
+
+input
+{
+    display:block;
+    width:500px;
+    margin:auto;
+
+}
+
+button
+{
+    border-radius: 0.5rem;
+    padding:0.5rem;
+    margin:0.5rem;
+    background-color: darkkhaki;
+    font-weight: 800;
+
+}
+
+#result
+{
+    color:darkkhaki
+}
+
+#palindrome-gif
+{
+   
+    margin:auto;
+}
